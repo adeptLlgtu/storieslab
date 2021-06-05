@@ -32,7 +32,7 @@
                             <p>3 990 ₽</p>
                         </div>
                     </div>
-                    <a class="tarif-link" href="">Занять место на курсе</a>
+                    <a class="tarif-link" target="_blank" href="https://t.me/God_of_stories_bot">Занять место на курсе</a>
                 </div>
                 <div class="tarif-container__item">
                     <div class="tarif-container__item-top">
@@ -70,7 +70,7 @@
                             <p>6 990 ₽</p>
                         </div>
                     </div>
-                    <a class="tarif-link" href="">Занять место на курсе</a>
+                    <a class="tarif-link" target="_blank" href="https://t.me/God_of_stories_bot">Занять место на курсе</a>
                 </div>
                 <div class="tarif-container__item">
                     <div class="tarif-container__item-top">
@@ -121,7 +121,7 @@
                             <p>9 990 ₽</p>
                         </div>
                     </div>
-                    <a class="tarif-link" href="">Занять место на курсе</a>
+                    <a class="tarif-link" target="_blank" href="https://t.me/God_of_stories_bot">Занять место на курсе</a>
                 </div>
             </div>
         </div>
