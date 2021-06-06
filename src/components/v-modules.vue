@@ -216,7 +216,7 @@
                             <img :src="plus" alt="">
                         </button><p>1 урок</p><div class="line"></div></div>
                         <div class="description-block">
-                        <p class="description">Продажи и смыслы в блоге</p>
+                        <p class="description">Приглашенный спикер: продажи и смыслы в блоге</p>
                             <p class="hide-description">Схема "мягких" прогревов своих продуктов и услуг. Как сделать так, чтобы у тебя покупали.</p>
                         </div>
                     </div>
@@ -257,6 +257,7 @@
                             btns[i].style.transform = 'rotate(45deg)'
                             hideText[i].style.height = 'unset'
                             hideText[i].style.opacity = '1'
+                            hideText[i].style.marginBottom = '1rem'
                             this.flag = true
                             for (let a=0; a<btns.length;a++){
                                 if (a!==i){
@@ -270,6 +271,7 @@
                             btns[i].style.transform = 'rotate(0deg)'
                             hideText[i].style.height = '0'
                             hideText[i].style.opacity = '0'
+                            hideText[i].style.marginBottom = '0'
                             this.flag = false
                             for (let a=0; a<btns.length;a++){
                                 btns[a].removeAttribute('disabled')

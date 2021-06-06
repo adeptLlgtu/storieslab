@@ -22,12 +22,12 @@
                     <div class="hookah-description-line"></div>
                     <p class="hookah-description-text"><span>Мышление</span><br/>Модуль, благодаря которому вы навсегда забудете о низких чеках и сможете проработать личные блоки</p>
                     <p class="hookah-description-text"><span>Дизайн</span><br/>Модуль, в котором вы научитесь создавать премиальный дизайн и с помощью него влиять на мышление людей</p>
-                    <p class="hookah-description-text"><span>Клиент</span><br/>Модуль, благодаря которомы вы сможете выйти в ТОП лидеры сторисмейкеров и работать с премиум клиентами</p>
+                    <p class="hookah-description-text"><span>Клиент</span><br/>Модуль, благодаря которому вы сможете выйти в ТОП лидеры сторисмейкеров и работать с премиум клиентами</p>
                 </div>
             </div>
         </div>
 
-        <a class="order-curs" href="https://teleg.run/God_of_stories_bot">Записаться на курс</a>
+        <a class="order-curs" target="_blank" href="https://teleg.run/God_of_stories_bot">Записаться на курс</a>
     </div>
 </template>
 

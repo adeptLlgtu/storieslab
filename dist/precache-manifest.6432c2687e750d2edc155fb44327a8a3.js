@@ -1,11 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8ad05a7c93c4d27d6dd",
-    "url": "/storieslab/css/app.70471d8c.css"
+    "revision": "e65cc2c42a2a94adb36c",
+    "url": "/storieslab/css/app.e166d3df.css"
   },
   {
     "revision": "b5df51f9b40f7ce80d01",
     "url": "/storieslab/css/chunk-vendors.7a652dfc.css"
+  },
+  {
+    "revision": "a7d0c241ffeb5641ff2c896c8315ce0d",
+    "url": "/storieslab/fav-back.svg"
+  },
+  {
+    "revision": "e5740c72b287725ae36cc2bd9da8b28f",
+    "url": "/storieslab/fav.svg"
   },
   {
     "revision": "40b2cdd460a3a4ca07ab726d2ea13020",
@@ -192,19 +200,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/storieslab/img/vsem.7c97c581.svg"
   },
   {
-    "revision": "80ad6ed2dbe8d09e247ad30681287e72",
+    "revision": "1e10cb47c8a47911063a92c91085ccd3",
     "url": "/storieslab/index.html"
   },
   {
-    "revision": "e8ad05a7c93c4d27d6dd",
-    "url": "/storieslab/js/app.420e2a96.js"
+    "revision": "e65cc2c42a2a94adb36c",
+    "url": "/storieslab/js/app.aeaaaf3f.js"
   },
   {
     "revision": "b5df51f9b40f7ce80d01",
     "url": "/storieslab/js/chunk-vendors.6d73a351.js"
   },
   {
-    "revision": "3d6bfded725269df3b7bf545abc24fd2",
+    "revision": "35f597f1e611ed10947e75f30917d595",
     "url": "/storieslab/manifest.json"
   },
   {

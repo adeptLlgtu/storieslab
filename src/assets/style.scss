@@ -433,7 +433,7 @@ header{
   width: 100%;
   display: flex;
   position: relative;
-  height: 50rem;
+  height: 60rem;
   background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
   color: transparent;
@@ -444,7 +444,7 @@ header{
     &:first-child{
       z-index: 0;
       position: absolute;
-      top: -20%;
+      top: -16%;
       transform: rotate(180deg);
       width: 100%;
       left: 0;
@@ -501,7 +501,7 @@ header{
   }
   #nastya{
     position: absolute;
-    bottom: -2rem;
+    bottom: 3rem;
     right: 0;
     width: 15rem;
   }
@@ -631,7 +631,7 @@ header{
         left: 0;
         padding: calc-px(7px) calc-px(22px);
         font-weight: bold;
-        text-shadow: 1px -1px 1px rgba(0, 163, 255, 0.5);
+        //text-shadow: 1px -1px 1px rgba(0, 163, 255, 0.5);
       }
       &-item{
         position: relative;
@@ -686,7 +686,7 @@ header{
         }
       .description-block{
         .hide-description{
-          margin-bottom: 1rem;
+          //margin-bottom: 1rem;
           color: rgba(0, 0, 0, 0.4);
           height: 0;
           opacity: 0;
