@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e65cc2c42a2a94adb36c",
-    "url": "/storieslab/css/app.e166d3df.css"
+    "revision": "44a226865005f5b5cc2e",
+    "url": "/storieslab/css/app.0895288d.css"
   },
   {
     "revision": "b5df51f9b40f7ce80d01",
@@ -200,11 +200,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/storieslab/img/vsem.7c97c581.svg"
   },
   {
-    "revision": "1e10cb47c8a47911063a92c91085ccd3",
+    "revision": "3ec393822e3477552978981b3f7a0281",
     "url": "/storieslab/index.html"
   },
   {
-    "revision": "e65cc2c42a2a94adb36c",
+    "revision": "44a226865005f5b5cc2e",
     "url": "/storieslab/js/app.aeaaaf3f.js"
   },
   {

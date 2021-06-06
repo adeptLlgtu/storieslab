@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/storieslab/precache-manifest.6432c2687e750d2edc155fb44327a8a3.js"
+  "/storieslab/precache-manifest.ed788f76d994165ff534ee488c9697e7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "curs"});
