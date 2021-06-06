@@ -2,7 +2,7 @@
     <div class="contacts">
         <h2>КОНТАКТЫ</h2>
         <div class="content">
-            <a target="_blank" href="" class="contacts-item">
+            <a target="_blank" href="https://t.me/bogomolchikk" class="contacts-item">
                 <img :src="tg" alt="">
                 <p>@bogomolchikk</p>
             </a>
